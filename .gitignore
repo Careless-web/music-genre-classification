@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# synthetic test data and the generated database are never committed
+data/synthetic_features_30_sec.csv
+database/music.db
+.env
+*.db-journal
