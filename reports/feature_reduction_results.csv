@@ -1,0 +1,5 @@
+feature_set,n_features,cv_accuracy_mean,cv_accuracy_std
+All features,57,0.73,0.029
+Correlation pruning (|r|>0.90),54,0.737,0.0256
+"PCA (33 comps, 95% var)",33,0.731,0.0314
+Top-20 by RF importance,20,0.702,0.0256
