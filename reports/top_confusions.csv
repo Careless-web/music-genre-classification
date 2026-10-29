@@ -1,0 +1,9 @@
+true_genre,predicted_as,count
+classical,jazz,3
+disco,pop,3
+metal,blues,3
+pop,reggae,3
+hiphop,disco,2
+disco,rock,2
+hiphop,reggae,2
+jazz,classical,2
