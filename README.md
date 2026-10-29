@@ -8,9 +8,9 @@ Classify songs into 10 genres from audio features (MFCC, chroma, spectral centro
 
 | Member | Responsibility |
 |---|---|
-| Person A (name) | Data loading, SQLite database, repo setup, README |
-| Person B (name) | EDA, feature understanding and reduction |
-| Person C (name) | Models, evaluation, recommender, Streamlit app |
+| Person A (Saurabh Kumar) | Data loading, SQLite database, repo setup, README |
+| Person B (Ayush Raj) | EDA, feature understanding and reduction |
+| Person C (Dhanraj Kumar) | Models, evaluation, recommender, Streamlit app |
 
 ## Dataset
 
